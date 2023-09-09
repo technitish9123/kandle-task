@@ -36,7 +36,7 @@ const Home = () => {
         <Image
           className="main-hero-img"
           src="/assets/main/hero.svg"
-          alt="kandle Logo"
+          alt="hero"
           width={618}
           height={200}
           priority
@@ -50,7 +50,7 @@ const Home = () => {
           {" "}
           <Image
             src="/assets/main/g.svg"
-            alt="kandle Logo"
+            alt="g"
             width={16}
             height={16}
             priority
@@ -108,7 +108,7 @@ const Home = () => {
           {" "}
           <Image
             src="/assets/main/g.svg"
-            alt="kandle Logo"
+            alt="g"
             width={16}
             height={16}
             priority
