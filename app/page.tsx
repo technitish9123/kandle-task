@@ -67,8 +67,8 @@ const Home = () => {
         <Image
           src={`/assets/main/dot.svg`}
           alt="dot"
-          width={10}
-          height={10}
+          width={15}
+          height={15}
           priority
         />
         <p>Live Rewards</p>
@@ -89,7 +89,7 @@ const Home = () => {
               <div key={key} className="hero-live-block-users-data">
                 <Image
                   src={`/assets/main/avatar.svg`}
-                  alt="kandle Logo"
+                  alt="avatar"
                   width={24}
                   height={25}
                   priority
